@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "gulp" : "gulp",
+    "gulp": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Daria-Khrushch/sass-tutorial#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-purgecss": "^5.0.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.56.1"
   }
